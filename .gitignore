@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- BEE PROJECT CUSTOM RULES ---
+BeehiveProject/
+
+dataset_local/
+temp_beehive.zip
+*.wav
+*.zip
+
+*.pt
+*.pth
+
+!all_data_updated.csv
